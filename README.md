@@ -1,4 +1,4 @@
-# nikoday artifacts and documentations
+# nikoday general artifacts for documentation
 
 #### more info in:
 
