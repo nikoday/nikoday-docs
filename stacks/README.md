@@ -5,6 +5,6 @@
 
 [FRONT-END](frontend-stack.md)
 
-[INFRASTRUCTURE](infrastructure-stack.md)
+[INFRAESTRUTURA](infrastructure-stack.md)
 
-[TOOLS](tools-for-stack.md)
+[FERRAMENTAS](tools-for-stack.md)
