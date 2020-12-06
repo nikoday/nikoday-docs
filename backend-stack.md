@@ -76,8 +76,3 @@ O MongoDB é um banco de dados orientado a documentos (document database) no for
 Assim como em um JSON utilizado em comunicações HTTP entre aplicações, no documento do MongoDB podem existir valores simples, como números, strings e datas, assim como também podem existir listas de valores e listas de objetos.
 Os documentos são agrupados em collections. E um conjunto de collections forma um database (banco de dados). O MongoDB permite que seu database seja replicado para outros servidores, aumentando assim a disponibilidade de suas informações, sendo esse recurso conhecido por replica set. Dessa forma, cada servidor terá uma cópia dos dados.
 
-
-
-
-
-
