@@ -1,6 +1,4 @@
-## Stack tecnológico
-
-### Front-end
+## Stack tecnológico - Front-end
 
 #### Vue.JS
 Vue.JS é um framework progressivo para a construção de interfaces de usuário. Ao contrário de outros frameworks monolíticos, Vue.JS foi projetado desde sua concepção para ser adotável incrementalmente. A biblioteca principal é focada exclusivamente na camada visual (view layer), sendo fácil adotar e integrar com outras bibliotecas ou projetos existentes. Por outro lado, Vue também é perfeitamente capaz de dar poder a sofisticadas SPA(Single-Page Applications) quando usado em conjunto com ferramentas modernas e bibliotecas de apoio.
