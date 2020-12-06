@@ -16,3 +16,4 @@
 - 14 - Construir App Flutter (Mobile Híbrido) para abrir em formato WebView.
 - 15 - Construir App Electron (Desktop Híbrido) para em formato WebView.
 - 16 - Fornecer uma Open API que facilite a integração a outras ferramentas, como Jira, Trello, Basecamp, PivotalTracker, Asana, Clubhouse, ProofHub, Github, BitBucket, e até o BlackBoard e etc.
+
