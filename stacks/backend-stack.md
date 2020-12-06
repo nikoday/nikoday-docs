@@ -1,6 +1,4 @@
-## Stack tecnológico
-
-### Back-end
+## Stack tecnológico - Back-end
 
 #### Spring Boot
 O Spring Boot facilita a criação de aplicações, onde é possível criar um projeto apenas com os componentes necessários, com pouca ou nenhuma configuração e simplesmente executar. "Just run".
