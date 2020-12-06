@@ -1,0 +1,58 @@
+
+Problemas e Soluções para ideias de MVP.
+Leandro Kersting de Freitas.
+
+
+Ideia - NikoNiko Calendar .
+
+Problema:
+
+Hoje em dia as empresas estão cada vez mais preocupadas com a qualidade e satisfação dos seus colaboradores, pois já se sabe que colabores felizes aumentam as chances de sucesso na entrega de um projeto/produto e seu retorno sobre o investimento.
+
+Porem com isso surgem mais dificuldades de mapear a felicidade das equipes dentro da empresa.
+
+Gestores cada vez tem mais dificuldade de obter uma visão correta individual e ou geral dos seus times, equipes, grupos, setores, filiais e etc.
+
+Solução:
+
+Após algum tempo estudando várias técnicas e soluções ágeis, me deparei com um artigo feito pelo agilista japonês da empresa Fujitsu chamado Akinori Sakata, artigo descreve a técnica chamada: ‘Niko Niko Calendar’.
+
+Basicamente a ideia dele é bem simples, mas com retorno impressionante.
+Deve-se deixar um quadro branco na porta de saída (famosos radiadores de informação no scrum) onde a equipe trabalha, neste quadro encontra-se os dias uteis em que a equipe trabalha e os respectivos nomes dos integrantes da equipe. 
+
+Ao final de cada dia o colaborador marca o quadro com 3 possíveis status emocionais em relação ao trabalho realizado naquele dia.
+
+•	 Rosto feliz = Ex: A jornada de trabalho foi ótima, não tive interrupções e conseguir cumprir meu objetivo diário.
+•	 Rosto Neutro = Ex: O trabalho foi parcial, pode ter ocorrido muitas reuniões, interrupções, mas trabalho foi realizado por exemplo.
+•	 Rosto triste = Ex: O dia foi complicado, não foi possível focar nas tarefas, sistema fora do ar, máquina de café estragou e etc.
+
+Baseado nestes status, o gestor do time tem um radiador de informação preenchido e consegue obter estatísticas diárias, semanais e mensais, podendo identificar por exemplo que toda a quarta-feira o time está triste e com isso tomar uma atitude para deixa-los mais satisfeitos.
+
+Ou Por exemplo, mapear que ao longo dos meses a equipe está ficando cada vez mais infeliz e investigar isso.
+
+Os gestores podem mapear várias equipes imagina uma empresa grande, ontem você tem 2 mil funcionários e conseguir mapear a felicidade de um determinado setor da empresa e com isso garantindo uma melhor tomada de decisão na governança de TI.
+
+Também é possível utilizar a mesma solução em uma sala de aula.
+
+Imagina o professor poder saber como os alunos estão se sentindo em relação as aulas, ver se estão gostando, caso não ele pode tomar alguma atitude para mudar, melhorar e etc.
+
+•	Um obstáculo é que algumas pessoas podem sentir-se insatisfeitas pois não querem que os outros vejam que ele está sempre marcando rosto tristes pro exemplo, e com isso leva está pessoa a mentirem no status. Uma ideia é fornecer a opção de anonimato onde somente o gestor pode ver o status individual, mas a equipe pode ver o status geral dos integrantes da equipe.
+
+•	OBS: NikoNiko em japonês um tipo de gíria, semelhante a rostinho feliz, carinha sorridente, semelhante aos emoticons.
+
+Agora com o home office cada vez mais forte e as pessoa cada vez mais distantes, saber como elas estão sentindo-se, está cada vez mais difícil.
+
+A ideia e fornecer um portal e um App, onde existem 2 principais personas, o colaborador e o gestor. 
+•	O gestor tem uma visão gráfica e gerencial, onde pode exibir estatísticas através de quadros gráficos emocionais.
+•	O colaborador através do App Mobile ou Portal pode ao final do dia marcar este status. (Pensar sobre a adição de marcar retroativamente).
+
+A ideia também é fornecer uma API que facilite a integração a outras ferramentas, como Jira, Trello, Basecamp, PivotalTracker, Asana, Clubhouse, ProofHub, Github, BitBucket, e até o BlackBoard e etc.
+
+Também fornecer a opção para o colaborador marcar as principais tags, (Semelhante como o Uber faz) e também informar breves comentários sobre o seu dia, por exemplo: 
+   - Sem internet, VPN fora, dia inteiro de reunião e etc.
+
+OBS: Essa ideia eu tive na cadeira da Aline, e apresentei com meu grupo, foi bem avaliado.
+
+
+Leandro Kersting de Freitas.
+
