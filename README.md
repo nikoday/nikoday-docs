@@ -1,4 +1,4 @@
-# nikoday general artifacts for documentation
+# NikoDay general artifacts for documentation
 
 ![Architecture Diagram](diagrams/diagram-architecture-nikoday.png)
 
