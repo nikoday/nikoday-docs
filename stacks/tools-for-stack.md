@@ -1,6 +1,4 @@
-## Stack tecnológico
-
-### Ferramentas para Desenvolvimento:
+## Ferramentas para Desenvolvimento
 
 #### IntelliJ Idea
 IntelliJ IDEA permite escrita de código com/sem complicações. Ele pratica uma abordagem não-intrusiva intuitiva para ajudá-lo a escrever, depurar, refatorar, testar e aprender o seu código. Graças à sua profunda compreensão das linguagens e tecnologias, IntelliJ IDEA oferece um segundo par de mãos quando você precisar deles.
