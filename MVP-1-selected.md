@@ -17,3 +17,4 @@ O gestor tem uma visão gráfica e gerencial, onde pode exibir estatísticas atr
 - 07- Possibilitar usuário marcar tags pré-definidas no calendário niko niko, Ex: (Sem internet, VPN fora, dia inteiro de reunião e etc).
 - 08- Construir painel principal (dashboard do gestor) para que o gestor possa ter uma visão gráfica e gerencial, onde deve exibir estatísticas através de quadros gráficos emocionais.
 - 09- Possibilitar que o usuário possa inserir um descrição sobre seu status.
+
